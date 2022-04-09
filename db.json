@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Sebastian rodriguez",
+      "empresa": "Programa tus ideas",
+      "email": "rdzhector.guillermo@hotmail.com",
+      "telefono": "44442983232",
+      "notas": "2",
+      "id": 1
+    },
+    {
+      "nombre": "Hector Guillermo",
+      "empresa": "Programa tus ideas",
+      "email": "alexishdz352@hotmail.com",
+      "telefono": "4448379918",
+      "notas": "Le gusta ser el mas vergas\n",
+      "id": 2
+    },
+    {
+      "nombre": "Juan perez",
+      "empresa": "Juanito sa de cv",
+      "email": "alexishdz352@hotmail.com",
+      "telefono": "4448379918",
+      "notas": "Esla mera verda",
+      "id": 4
+    }
+  ]
+}
